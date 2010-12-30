@@ -1,6 +1,6 @@
 {
-  "name": "hellonode",
-  "description": "demo node.js application that starts up an http server",
+  "name": "badproject",
+  "description": "demo node.js application with malformed package.json",
   "version": "0.1.0",
   "author": "Marak Squires"
   "engine": [ "node >=0.1.90" ]
